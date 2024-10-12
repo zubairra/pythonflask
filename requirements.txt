@@ -2,3 +2,4 @@ Flask==2.2.2
 gunicorn==20.1.0
 importlib-metadata==6.0.0
 autopep8==2.0.1
+pycodestyle==2.10.0
